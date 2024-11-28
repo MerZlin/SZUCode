@@ -4,8 +4,12 @@
 #include <iostream>
 #include <queue>
 using namespace std;
+<<<<<<< HEAD
 
 int flag;
+=======
+//1111212
+>>>>>>> 30f22ab9f4f3fc3d3835c6739252bacbf84516a5
 /*基准算法*/
 struct graph {
     int pointnum;
