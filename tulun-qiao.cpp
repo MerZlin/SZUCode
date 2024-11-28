@@ -4,7 +4,7 @@
 #include <iostream>
 #include <queue>
 using namespace std;
-
+//1111212
 /*基准算法*/
 struct graph {
     int pointnum;
