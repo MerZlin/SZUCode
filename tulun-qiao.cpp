@@ -5,6 +5,7 @@
 #include <queue>
 using namespace std;
 
+int flag;
 /*基准算法*/
 struct graph {
     int pointnum;
